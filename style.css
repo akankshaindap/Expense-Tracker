@@ -14,19 +14,19 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    min-height: 100vh;
+    min-height: 100%;
     margin: 0;
-   
    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   .container {
     margin: 30px auto;
-    width: 65%;
+    width: 60%;
     border-style:double;
     padding: 0.6rem;
     margin: 0.1rem;
     background-color: #d3d2d2;
+    display: flexbox;
+   
   
   }
   
