@@ -46,7 +46,7 @@
       ${transaction.text}<span>${sign}${Math.abs(
       transaction.amount 
     )}</span>
-      <button class="delete-btn" onclick="removeTransaction(${transaction.id})">x</button>
+      <button class="delete-btn" onclick="removeTransaction(${transaction.id})">X</button>
       `;
     list.appendChild(item);
   }
